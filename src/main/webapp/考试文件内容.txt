@@ -1,0 +1,458 @@
+省名	省英文名	市名	市英文名	本省确诊人数	本省疑似人数	本省治愈人数	本省死亡人数	本市确诊人数	本市疑似人数	本市治愈人数	本市死亡人数	数据更新时间
+河南省	Henan	信阳	Xinyang	1231	0	415	13	261	0	74	2	48:34.8
+河南省	Henan	南阳	Nanyang	1231	0	415	13	151	0	52	2	48:34.8
+河南省	Henan	郑州	Zhengzhou	1231	0	415	13	148	0	66	0	48:34.8
+河南省	Henan	驻马店	Zhumadian	1231	0	415	13	138	0	64	0	48:34.8
+河南省	Henan	商丘	Shangqiu	1231	0	415	13	91	0	30	2	48:34.8
+河南省	Henan	周口	Zhoukou	1231	0	415	13	71	0	25	0	48:34.8
+河南省	Henan	新乡	Xinxiang	1231	0	415	13	56	0	12	2	48:34.8
+河南省	Henan	平顶山	Pingdingshan	1231	0	415	13	58	0	20	1	48:34.8
+河南省	Henan	安阳	Anyang	1231	0	415	13	51	0	18	0	48:34.8
+河南省	Henan	许昌	Xuchang	1231	0	415	13	38	0	8	0	48:34.8
+河南省	Henan	漯河	Luohe	1231	0	415	13	34	0	12	0	48:34.8
+河南省	Henan	焦作	Jiaozuo	1231	0	415	13	30	0	7	1	48:34.8
+河南省	Henan	洛阳	Luoyang	1231	0	415	13	31	0	10	0	48:34.8
+河南省	Henan	开封	Kaifeng	1231	0	415	13	26	0	7	0	48:34.8
+河南省	Henan	鹤壁	Hebi	1231	0	415	13	19	0	4	0	48:34.8
+河南省	Henan	濮阳	Puyang	1231	0	415	13	17	0	2	0	48:34.8
+河南省	Henan	济源	Jiyuan	1231	0	415	13	4	0	0	0	48:34.8
+河南省	Henan	三门峡	Sanmenxia	1231	0	415	13	7	0	4	0	48:34.8
+河南省	Henan	待明确地区	Area not defined	1231	0	415	13	0	0	0	3	48:34.8
+江苏省	Jiangsu	南京	Nanjing	617	0	207	0	92	0	29	0	48:34.8
+江苏省	Jiangsu	苏州	Suzhou	617	0	207	0	86	0	26	0	48:34.8
+江苏省	Jiangsu	徐州	Xuzhou	617	0	207	0	78	0	23	0	48:34.8
+江苏省	Jiangsu	淮安	Huainan	617	0	207	0	63	0	21	0	48:34.8
+江苏省	Jiangsu	连云港	Lianyungang	617	0	207	0	48	0	12	0	48:34.8
+江苏省	Jiangsu	无锡	Wuxi	617	0	207	0	53	0	18	0	48:34.8
+江苏省	Jiangsu	常州	Changzhou	617	0	207	0	46	0	20	0	48:34.8
+江苏省	Jiangsu	南通	Nantong	617	0	207	0	40	0	15	0	48:34.8
+江苏省	Jiangsu	泰州	Taizhou	617	0	207	0	37	0	16	0	48:34.8
+江苏省	Jiangsu	盐城	Yancheng	617	0	207	0	27	0	9	0	48:34.8
+江苏省	Jiangsu	扬州	Yangzhou	617	0	207	0	22	0	7	0	48:34.8
+江苏省	Jiangsu	镇江	Zhenjiang	617	0	207	0	12	0	4	0	48:34.8
+江苏省	Jiangsu	宿迁	Suqian	617	0	207	0	13	0	7	0	48:34.8
+黑龙江省	Heilongjiang	哈尔滨	Harbin	445	0	73	11	182	0	30	3	48:34.8
+黑龙江省	Heilongjiang	双鸭山	Shuangyashan	445	0	73	11	49	0	1	2	48:34.8
+黑龙江省	Heilongjiang	鸡西	Jixi	445	0	73	11	46	0	1	0	48:34.8
+黑龙江省	Heilongjiang	绥化	Suihua	445	0	73	11	46	0	13	4	48:34.8
+黑龙江省	Heilongjiang	齐齐哈尔	Qiqihar	445	0	73	11	38	0	8	1	48:34.8
+黑龙江省	Heilongjiang	大庆	Daqing	445	0	73	11	19	0	2	1	48:34.8
+黑龙江省	Heilongjiang	黑河	Heihe	445	0	73	11	14	0	0	0	48:34.8
+黑龙江省	Heilongjiang	七台河	Qitaihe	445	0	73	11	16	0	4	0	48:34.8
+黑龙江省	Heilongjiang	牡丹江	Mudanjiang	445	0	73	11	12	0	1	0	48:34.8
+黑龙江省	Heilongjiang	佳木斯	Jiamusi	445	0	73	11	15	0	11	0	48:34.8
+黑龙江省	Heilongjiang	鹤岗	Hegang	445	0	73	11	5	0	2	0	48:34.8
+黑龙江省	Heilongjiang	大兴安岭	Daxinganling	445	0	73	11	2	0	0	0	48:34.8
+黑龙江省	Heilongjiang	伊春	Yichun	445	0	73	11	1	0	0	0	48:34.8
+四川省	Sichuan	成都	Chengdu	481	0	130	3	140	0	49	1	48:34.8
+四川省	Sichuan	甘孜州	Garzê Tibetan Autonomous Prefecture	481	0	130	3	50	0	3	0	48:34.8
+四川省	Sichuan	达州	Dazhou	481	0	130	3	36	0	5	0	48:34.8
+四川省	Sichuan	南充	Nanchong	481	0	130	3	35	0	9	0	48:34.8
+四川省	Sichuan	巴中	Bazhong	481	0	130	3	24	0	3	0	48:34.8
+四川省	Sichuan	广安	Guang'an	481	0	130	3	30	0	10	0	48:34.8
+四川省	Sichuan	内江	Neijiang	481	0	130	3	22	0	5	0	48:34.8
+四川省	Sichuan	泸州	Luzhou	481	0	130	3	19	0	2	0	48:34.8
+四川省	Sichuan	德阳	Deyang	481	0	130	3	17	0	0	0	48:34.8
+四川省	Sichuan	绵阳	Mianyang	481	0	130	3	22	0	6	0	48:34.8
+四川省	Sichuan	凉山州	Liangshan Yi Autonomous Prefecture	481	0	130	3	13	0	5	0	48:34.8
+四川省	Sichuan	遂宁	Suining	481	0	130	3	12	0	4	0	48:34.8
+四川省	Sichuan	自贡	Zigong	481	0	130	3	9	0	2	0	48:34.8
+四川省	Sichuan	眉山	Meishan	481	0	130	3	8	0	2	0	48:34.8
+四川省	Sichuan	宜宾	Yibin	481	0	130	3	11	0	6	0	48:34.8
+四川省	Sichuan	雅安	Ya'an	481	0	130	3	7	0	2	0	48:34.8
+四川省	Sichuan	攀枝花	Panzhihua	481	0	130	3	13	0	10	0	48:34.8
+四川省	Sichuan	广元	Guangyuan	481	0	130	3	6	0	3	0	48:34.8
+四川省	Sichuan	乐山	Leshan	481	0	130	3	3	0	2	0	48:34.8
+四川省	Sichuan	资阳	Ziyang	481	0	130	3	3	0	2	0	48:34.8
+四川省	Sichuan	阿坝州	Ngawa Tibetan and Qiang Autonomous Prefecture	481	0	130	3	1	0	0	0	48:34.8
+四川省	Sichuan	待明确地区	Area not defined	481	0	130	3	0	0	0	2	48:34.8
+湖北省	Hubei	武汉	Wuhan	56249	0	5623	1596	39462	0	2915	1233	31:02.2
+湖北省	Hubei	孝感	Xiaogan	56249	0	5623	1596	3201	0	353	65	31:02.2
+湖北省	Hubei	黄冈	Huanggang	56249	0	5623	1596	2823	0	716	75	31:02.2
+湖北省	Hubei	荆州	Jingzhou	56249	0	5623	1596	1490	0	263	36	31:02.2
+湖北省	Hubei	随州	Suizhou	56249	0	5623	1596	1254	0	113	22	31:02.2
+湖北省	Hubei	襄阳	Xiangyang	56249	0	5623	1596	1144	0	114	19	31:02.2
+湖北省	Hubei	鄂州	Ezhou	56249	0	5623	1596	1230	0	222	34	31:02.2
+湖北省	Hubei	黄石	Huangshi	56249	0	5623	1596	988	0	192	14	31:02.2
+湖北省	Hubei	荆门	Jingmen	56249	0	5623	1596	909	0	117	30	31:02.2
+湖北省	Hubei	宜昌	Yichang	56249	0	5623	1596	901	0	140	21	31:02.2
+湖北省	Hubei	咸宁	Xianning	56249	0	5623	1596	852	0	152	8	31:02.2
+湖北省	Hubei	十堰	Shiyan	56249	0	5623	1596	602	0	116	2	31:02.2
+湖北省	Hubei	仙桃	Xiantao	56249	0	5623	1596	523	0	87	17	31:02.2
+湖北省	Hubei	天门	Tianmen	56249	0	5623	1596	447	0	27	10	31:02.2
+湖北省	Hubei	恩施州	Enshi Tujia and Miao Autonomous Prefecture	56249	0	5623	1596	247	0	76	4	31:02.2
+湖北省	Hubei	潜江	Qianjiang	56249	0	5623	1596	166	0	12	6	31:02.2
+湖北省	Hubei	神农架林区	Shennongjia	56249	0	5623	1596	10	0	8	0	31:02.2
+广东省	Guangdong	深圳	Shenzhen	1316	0	442	2	414	0	115	0	31:02.2
+广东省	Guangdong	广州	Guangzhou	1316	0	442	2	338	0	121	0	31:02.2
+广东省	Guangdong	东莞	Dongguan	1316	0	442	2	89	0	7	1	31:02.2
+广东省	Guangdong	佛山	Foshan	1316	0	442	2	84	0	23	0	31:02.2
+广东省	Guangdong	珠海	Zhuhai	1316	0	442	2	96	0	37	0	31:02.2
+广东省	Guangdong	惠州	Huizhou	1316	0	442	2	58	0	26	0	31:02.2
+广东省	Guangdong	中山	Zhongshan	1316	0	442	2	65	0	34	0	31:02.2
+广东省	Guangdong	江门	Jiangmen	1316	0	442	2	23	0	3	0	31:02.2
+广东省	Guangdong	汕头	Shantou	1316	0	442	2	25	0	11	0	31:02.2
+广东省	Guangdong	湛江	Zhanjiang	1316	0	442	2	22	0	11	0	31:02.2
+广东省	Guangdong	茂名	Maoming	1316	0	442	2	13	0	3	0	31:02.2
+广东省	Guangdong	梅州	Meizhou	1316	0	442	2	16	0	7	0	31:02.2
+广东省	Guangdong	肇庆	Zhaoqing	1316	0	442	2	17	0	8	1	31:02.2
+广东省	Guangdong	阳江	Yangjiang	1316	0	442	2	13	0	7	0	31:02.2
+广东省	Guangdong	韶关	Shaoguan	1316	0	442	2	10	0	4	0	31:02.2
+广东省	Guangdong	清远	Qingyuan	1316	0	442	2	12	0	7	0	31:02.2
+广东省	Guangdong	揭阳	Jieyang	1316	0	442	2	8	0	4	0	31:02.2
+广东省	Guangdong	汕尾	Shanwei	1316	0	442	2	5	0	1	0	31:02.2
+广东省	Guangdong	潮州	Chaozhou	1316	0	442	2	5	0	1	0	31:02.2
+广东省	Guangdong	河源	Heyuan	1316	0	442	2	3	0	1	0	31:02.2
+广东省	Guangdong	待明确地区	Area not defined	1316	0	442	2	0	0	11	0	31:02.2
+河南省	Henan	信阳	Xinyang	1231	0	402	13	261	0	64	2	31:02.2
+河南省	Henan	南阳	Nanyang	1231	0	402	13	151	0	52	2	31:02.2
+河南省	Henan	郑州	Zhengzhou	1231	0	402	13	148	0	66	0	31:02.2
+河南省	Henan	驻马店	Zhumadian	1231	0	402	13	138	0	64	0	31:02.2
+河南省	Henan	商丘	Shangqiu	1231	0	402	13	91	0	30	2	31:02.2
+河南省	Henan	周口	Zhoukou	1231	0	402	13	71	0	25	0	31:02.2
+河南省	Henan	新乡	Xinxiang	1231	0	402	13	56	0	10	2	31:02.2
+河南省	Henan	平顶山	Pingdingshan	1231	0	402	13	58	0	20	1	31:02.2
+河南省	Henan	安阳	Anyang	1231	0	402	13	51	0	18	0	31:02.2
+河南省	Henan	许昌	Xuchang	1231	0	402	13	38	0	8	0	31:02.2
+河南省	Henan	焦作	Jiaozuo	1231	0	402	13	30	0	6	1	31:02.2
+河南省	Henan	漯河	Luohe	1231	0	402	13	34	0	12	0	31:02.2
+河南省	Henan	洛阳	Luoyang	1231	0	402	13	31	0	10	0	31:02.2
+河南省	Henan	开封	Kaifeng	1231	0	402	13	26	0	7	0	31:02.2
+河南省	Henan	鹤壁	Hebi	1231	0	402	13	19	0	4	0	31:02.2
+河南省	Henan	濮阳	Puyang	1231	0	402	13	17	0	2	0	31:02.2
+河南省	Henan	济源	Jiyuan	1231	0	402	13	4	0	0	0	31:02.2
+河南省	Henan	三门峡	Sanmenxia	1231	0	402	13	7	0	4	0	31:02.2
+河南省	Henan	待明确地区	Area not defined	1231	0	402	13	0	0	0	3	31:02.2
+浙江省	Zhejiang	温州	Wenzhou	1167	0	437	0	502	0	169	0	31:02.2
+浙江省	Zhejiang	宁波	Ningbo	1167	0	437	0	155	0	53	0	31:02.2
+浙江省	Zhejiang	杭州	Hangzhou	1167	0	437	0	166	0	75	0	31:02.2
+浙江省	Zhejiang	台州	Taizhou	1167	0	437	0	146	0	60	0	31:02.2
+浙江省	Zhejiang	嘉兴	Jiaxing	1167	0	437	0	43	0	11	0	31:02.2
+浙江省	Zhejiang	金华	Jinhua	1167	0	437	0	55	0	24	0	31:02.2
+浙江省	Zhejiang	绍兴	Shaoxing	1167	0	437	0	42	0	17	0	31:02.2
+浙江省	Zhejiang	衢州	Quzhou	1167	0	437	0	21	0	9	0	31:02.2
+浙江省	Zhejiang	丽水	Lishui	1167	0	437	0	17	0	10	0	31:02.2
+浙江省	Zhejiang	湖州	Huzhou	1167	0	437	0	10	0	4	0	31:02.2
+浙江省	Zhejiang	舟山	Zhoushan	1167	0	437	0	10	0	5	0	31:02.2
+安徽省	Anhui	蚌埠	Bengbu	962	0	242	6	157	0	9	5	31:02.2
+安徽省	Anhui	合肥	Hefei	962	0	242	6	169	0	43	1	31:02.2
+安徽省	Anhui	阜阳	Fuyang	962	0	242	6	152	0	32	0	31:02.2
+安徽省	Anhui	亳州	Bozhou	962	0	242	6	108	0	35	0	31:02.2
+安徽省	Anhui	六安	Lu'an	962	0	242	6	65	0	15	0	31:02.2
+安徽省	Anhui	安庆	Anqing	962	0	242	6	82	0	33	0	31:02.2
+安徽省	Anhui	宿州	Suzhou	962	0	242	6	39	0	11	0	31:02.2
+安徽省	Anhui	马鞍山	Ma'anshan	962	0	242	6	36	0	10	0	31:02.2
+安徽省	Anhui	芜湖	Wuhu	962	0	242	6	31	0	11	0	31:02.2
+安徽省	Anhui	铜陵	Tongling	962	0	242	6	28	0	10	0	31:02.2
+安徽省	Anhui	淮南	Huainan	962	0	242	6	24	0	7	0	31:02.2
+安徽省	Anhui	淮北	Huaibei	962	0	242	6	26	0	10	0	31:02.2
+安徽省	Anhui	池州	Chizhou	962	0	242	6	17	0	4	0	31:02.2
+安徽省	Anhui	黄山	Huangshan	962	0	242	6	9	0	1	0	31:02.2
+安徽省	Anhui	滁州	Chuzhou	962	0	242	6	13	0	7	0	31:02.2
+安徽省	Anhui	宣城	Xuancheng	962	0	242	6	6	0	4	0	31:02.2
+江西省	Jiangxi	南昌	Nanchang	925	0	239	1	227	0	75	0	31:02.2
+江西省	Jiangxi	九江	Jiujiang	925	0	239	1	117	0	22	0	31:02.2
+江西省	Jiangxi	新余	Xinyu	925	0	239	1	129	0	37	0	31:02.2
+江西省	Jiangxi	上饶	Shangrao	925	0	239	1	123	0	31	0	31:02.2
+江西省	Jiangxi	宜春	Yichun	925	0	239	1	104	0	20	0	31:02.2
+江西省	Jiangxi	赣州	Ganzhou	925	0	239	1	76	0	17	1	31:02.2
+江西省	Jiangxi	抚州	Fuzhou	925	0	239	1	72	0	20	0	31:02.2
+江西省	Jiangxi	萍乡	Pingxiang	925	0	239	1	32	0	4	0	31:02.2
+江西省	Jiangxi	鹰潭	Yingtan	925	0	239	1	18	0	3	0	31:02.2
+江西省	Jiangxi	吉安	Ji'an	925	0	239	1	21	0	9	0	31:02.2
+江西省	Jiangxi	景德镇	Jingdezhen	925	0	239	1	5	0	1	0	31:02.2
+江西省	Jiangxi	赣江新区	Ganjiang New District	925	0	239	1	1	0	0	0	31:02.2
+湖南省	Hunan	长沙	Changsha	1004	0	449	3	241	0	89	1	31:02.2
+湖南省	Hunan	岳阳	Yueyang	1004	0	449	3	154	0	54	1	31:02.2
+湖南省	Hunan	常德	Changde	1004	0	449	3	79	0	28	0	31:02.2
+湖南省	Hunan	株洲	Zhuzhou	1004	0	449	3	78	0	29	0	31:02.2
+湖南省	Hunan	邵阳	Shaoyang	1004	0	449	3	101	0	59	1	31:02.2
+湖南省	Hunan	娄底	Loudi	1004	0	449	3	75	0	34	0	31:02.2
+湖南省	Hunan	益阳	Yiyang	1004	0	449	3	59	0	25	0	31:02.2
+湖南省	Hunan	湘潭	Xiangtan	1004	0	449	3	35	0	14	0	31:02.2
+湖南省	Hunan	衡阳	Hengyang	1004	0	449	3	47	0	28	0	31:02.2
+湖南省	Hunan	郴州	Chenzhou	1004	0	449	3	39	0	22	0	31:02.2
+湖南省	Hunan	永州	Yongzhou	1004	0	449	3	43	0	27	0	31:02.2
+湖南省	Hunan	怀化	Huaihua	1004	0	449	3	40	0	30	0	31:02.2
+湖南省	Hunan	湘西自治州	Xiangxi	1004	0	449	3	8	0	6	0	31:02.2
+湖南省	Hunan	张家界	Zhangjiajie	1004	0	449	3	5	0	4	0	31:02.2
+江苏省	Jiangsu	南京	Nanjing	617	0	198	0	92	0	29	0	31:02.2
+江苏省	Jiangsu	苏州	Suzhou	617	0	198	0	86	0	26	0	31:02.2
+江苏省	Jiangsu	徐州	Xuzhou	617	0	198	0	78	0	23	0	31:02.2
+江苏省	Jiangsu	淮安	Huainan	617	0	198	0	63	0	21	0	31:02.2
+江苏省	Jiangsu	连云港	Lianyungang	617	0	198	0	48	0	12	0	31:02.2
+江苏省	Jiangsu	无锡	Wuxi	617	0	198	0	53	0	18	0	31:02.2
+江苏省	Jiangsu	常州	Changzhou	617	0	198	0	46	0	11	0	31:02.2
+江苏省	Jiangsu	南通	Nantong	617	0	198	0	40	0	15	0	31:02.2
+江苏省	Jiangsu	泰州	Taizhou	617	0	198	0	37	0	16	0	31:02.2
+江苏省	Jiangsu	盐城	Yancheng	617	0	198	0	27	0	9	0	31:02.2
+江苏省	Jiangsu	扬州	Yangzhou	617	0	198	0	22	0	7	0	31:02.2
+江苏省	Jiangsu	镇江	Zhenjiang	617	0	198	0	12	0	4	0	31:02.2
+江苏省	Jiangsu	宿迁	Suqian	617	0	198	0	13	0	7	0	31:02.2
+山东省	Shandong	济南	Jinan	537	0	164	2	47	0	11	0	31:02.2
+山东省	Shandong	青岛	Qingdao	537	0	164	2	57	0	22	1	31:02.2
+山东省	Shandong	潍坊	Weifang	537	0	164	2	43	0	9	0	31:02.2
+山东省	Shandong	济宁	Jining	537	0	164	2	51	0	18	0	31:02.2
+山东省	Shandong	烟台	Yantai	537	0	164	2	46	0	13	0	31:02.2
+山东省	Shandong	威海	Weihai	537	0	164	2	38	0	9	0	31:02.2
+山东省	Shandong	德州	Dezhou	537	0	164	2	37	0	7	1	31:02.2
+山东省	Shandong	聊城	Liaocheng	537	0	164	2	38	0	10	0	31:02.2
+山东省	Shandong	泰安	Tai'an	537	0	164	2	32	0	5	0	31:02.2
+山东省	Shandong	淄博	Zibo	537	0	164	2	29	0	4	0	31:02.2
+山东省	Shandong	枣庄	Zaozhuang	537	0	164	2	24	0	4	0	31:02.2
+山东省	Shandong	临沂	Linyi	537	0	164	2	47	0	29	0	31:02.2
+山东省	Shandong	日照	Rizhao	537	0	164	2	16	0	3	0	31:02.2
+山东省	Shandong	菏泽	Heze	537	0	164	2	18	0	11	0	31:02.2
+山东省	Shandong	滨州	Binzhou	537	0	164	2	14	0	9	0	31:02.2
+黑龙江省	Heilongjiang	哈尔滨	Harbin	445	0	72	11	182	0	30	3	31:02.2
+黑龙江省	Heilongjiang	双鸭山	Shuangyashan	445	0	72	11	49	0	1	2	31:02.2
+黑龙江省	Heilongjiang	鸡西	Jixi	445	0	72	11	46	0	1	0	31:02.2
+黑龙江省	Heilongjiang	绥化	Suihua	445	0	72	11	46	0	12	4	31:02.2
+黑龙江省	Heilongjiang	齐齐哈尔	Qiqihar	445	0	72	11	38	0	8	1	31:02.2
+黑龙江省	Heilongjiang	大庆	Daqing	445	0	72	11	19	0	2	1	31:02.2
+黑龙江省	Heilongjiang	黑河	Heihe	445	0	72	11	14	0	0	0	31:02.2
+黑龙江省	Heilongjiang	七台河	Qitaihe	445	0	72	11	16	0	4	0	31:02.2
+黑龙江省	Heilongjiang	牡丹江	Mudanjiang	445	0	72	11	12	0	1	0	31:02.2
+黑龙江省	Heilongjiang	佳木斯	Jiamusi	445	0	72	11	15	0	11	0	31:02.2
+黑龙江省	Heilongjiang	鹤岗	Hegang	445	0	72	11	5	0	2	0	31:02.2
+黑龙江省	Heilongjiang	大兴安岭	Daxinganling	445	0	72	11	2	0	0	0	31:02.2
+黑龙江省	Heilongjiang	伊春	Yichun	445	0	72	11	1	0	0	0	31:02.2
+重庆市	Chongqing	万州区	Wanzhou District	544	0	184	5	105	0	34	3	31:02.2
+重庆市	Chongqing	江北区	Jiangbei District	544	0	184	5	27	0	3	0	31:02.2
+重庆市	Chongqing	綦江区	Qijiang District	544	0	184	5	23	0	5	0	31:02.2
+重庆市	Chongqing	合川区	Hechuan District	544	0	184	5	23	0	6	0	31:02.2
+重庆市	Chongqing	潼南区	Tongnan District	544	0	184	5	18	0	2	0	31:02.2
+重庆市	Chongqing	垫江县	Dianjiang County	544	0	184	5	20	0	5	0	31:02.2
+重庆市	Chongqing	奉节县	Fengjie County	544	0	184	5	20	0	5	0	31:02.2
+重庆市	Chongqing	渝中区	Yuzhong District	544	0	184	5	20	0	7	0	31:02.2
+重庆市	Chongqing	南岸区	Nan'an District	544	0	184	5	15	0	2	0	31:02.2
+重庆市	Chongqing	九龙坡区	Jiulongpo District	544	0	184	5	20	0	7	1	31:02.2
+重庆市	Chongqing	大足区	Dazu District	544	0	184	5	14	0	2	0	31:02.2
+重庆市	Chongqing	长寿区	Changshou District	544	0	184	5	20	0	9	0	31:02.2
+重庆市	Chongqing	忠县	Zhong County	544	0	184	5	20	0	9	0	31:02.2
+重庆市	Chongqing	两江新区	Liangjiang New Area	544	0	184	5	17	0	7	0	31:02.2
+重庆市	Chongqing	渝北区	Yubei District	544	0	184	5	15	0	5	0	31:02.2
+重庆市	Chongqing	石柱县	Shizhu Tujia Autonomous County	544	0	184	5	14	0	5	0	31:02.2
+重庆市	Chongqing	荣昌区	Rongchang District	544	0	184	5	9	0	0	0	31:02.2
+重庆市	Chongqing	沙坪坝区	Shapingba District	544	0	184	5	8	0	0	0	31:02.2
+重庆市	Chongqing	云阳县	Yunyang County	544	0	184	5	23	0	16	0	31:02.2
+重庆市	Chongqing	开州区	Kaizhou District	544	0	184	5	20	0	12	1	31:02.2
+重庆市	Chongqing	丰都县	Fengdu County	544	0	184	5	10	0	3	0	31:02.2
+重庆市	Chongqing	铜梁区	Tongliang District	544	0	184	5	9	0	2	0	31:02.2
+重庆市	Chongqing	巫溪县	Wuxi County	544	0	184	5	13	0	8	0	31:02.2
+重庆市	Chongqing	巫山县	Wushan County	544	0	184	5	10	0	5	0	31:02.2
+重庆市	Chongqing	巴南区	Banan District	544	0	184	5	6	0	1	0	31:02.2
+重庆市	Chongqing	璧山区	Bishan District	544	0	184	5	8	0	4	0	31:02.2
+重庆市	Chongqing	大渡口区	Dadukou District	544	0	184	5	7	0	4	0	31:02.2
+重庆市	Chongqing	永川区	Yongchuan District	544	0	184	5	5	0	2	0	31:02.2
+重庆市	Chongqing	高新区	Chongqing High-tech Zone	544	0	184	5	4	0	1	0	31:02.2
+重庆市	Chongqing	江津区	Jiangjin District	544	0	184	5	4	0	2	0	31:02.2
+重庆市	Chongqing	涪陵区	Fuling District	544	0	184	5	3	0	1	0	31:02.2
+重庆市	Chongqing	彭水县	Pengshui Miao and Tujia Autonomous County	544	0	184	5	2	0	0	0	31:02.2
+重庆市	Chongqing	酉阳县	Youyang Tujia and Miao Autonomous County	544	0	184	5	1	0	0	0	31:02.2
+重庆市	Chongqing	万盛经开区	Wansheng District	544	0	184	5	1	0	0	0	31:02.2
+重庆市	Chongqing	梁平区	Liangping District	544	0	184	5	4	0	4	0	31:02.2
+重庆市	Chongqing	黔江区	Qianjiang Tujia and Miao Autonomous County	544	0	184	5	2	0	2	0	31:02.2
+重庆市	Chongqing	城口县	Chengkou County	544	0	184	5	2	0	2	0	31:02.2
+重庆市	Chongqing	武隆区	Wulong District	544	0	184	5	1	0	1	0	31:02.2
+重庆市	Chongqing	秀山县	Xiushan Tujia and Miao Autonomous County	544	0	184	5	1	0	1	0	31:02.2
+四川省	Sichuan	成都	Chengdu	481	0	129	3	140	0	49	1	31:02.2
+四川省	Sichuan	甘孜州	Garzê Tibetan Autonomous Prefecture	481	0	129	3	50	0	3	0	31:02.2
+四川省	Sichuan	达州	Dazhou	481	0	129	3	36	0	5	0	31:02.2
+四川省	Sichuan	南充	Nanchong	481	0	129	3	35	0	9	0	31:02.2
+四川省	Sichuan	巴中	Bazhong	481	0	129	3	24	0	2	0	31:02.2
+四川省	Sichuan	广安	Guang'an	481	0	129	3	30	0	10	0	31:02.2
+四川省	Sichuan	内江	Neijiang	481	0	129	3	22	0	5	0	31:02.2
+四川省	Sichuan	泸州	Luzhou	481	0	129	3	19	0	2	0	31:02.2
+四川省	Sichuan	德阳	Deyang	481	0	129	3	17	0	0	0	31:02.2
+四川省	Sichuan	绵阳	Mianyang	481	0	129	3	22	0	6	0	31:02.2
+四川省	Sichuan	凉山州	Liangshan Yi Autonomous Prefecture	481	0	129	3	13	0	5	0	31:02.2
+四川省	Sichuan	遂宁	Suining	481	0	129	3	12	0	4	0	31:02.2
+四川省	Sichuan	自贡	Zigong	481	0	129	3	9	0	2	0	31:02.2
+四川省	Sichuan	眉山	Meishan	481	0	129	3	8	0	2	0	31:02.2
+四川省	Sichuan	宜宾	Yibin	481	0	129	3	11	0	6	0	31:02.2
+四川省	Sichuan	雅安	Ya'an	481	0	129	3	7	0	2	0	31:02.2
+四川省	Sichuan	攀枝花	Panzhihua	481	0	129	3	13	0	10	0	31:02.2
+四川省	Sichuan	广元	Guangyuan	481	0	129	3	6	0	3	0	31:02.2
+四川省	Sichuan	乐山	Leshan	481	0	129	3	3	0	2	0	31:02.2
+四川省	Sichuan	资阳	Ziyang	481	0	129	3	3	0	2	0	31:02.2
+四川省	Sichuan	阿坝州	Ngawa Tibetan and Qiang Autonomous Prefecture	481	0	129	3	1	0	0	0	31:02.2
+四川省	Sichuan	待明确地区	Area not defined	481	0	129	3	0	0	0	2	31:02.2
+北京市	Beijing	海淀区	Haidian District	380	0	105	4	60	0	0	0	31:02.2
+北京市	Beijing	朝阳区	Chaoyang District	380	0	105	4	58	0	0	0	31:02.2
+北京市	Beijing	西城区	Xicheng District	380	0	105	4	46	0	0	0	31:02.2
+北京市	Beijing	大兴区	Daxing District	380	0	105	4	39	0	2	0	31:02.2
+北京市	Beijing	丰台区	Fengtai District	380	0	105	4	39	0	3	0	31:02.2
+北京市	Beijing	昌平区	Changping District	380	0	105	4	25	0	0	0	31:02.2
+北京市	Beijing	外地来京人员	People from other cities	380	0	105	4	26	0	2	0	31:02.2
+北京市	Beijing	通州区	Tongzhou District	380	0	105	4	18	0	1	0	31:02.2
+北京市	Beijing	房山区	Fangshan District	380	0	105	4	15	0	0	0	31:02.2
+北京市	Beijing	石景山区	Shijingshan District	380	0	105	4	14	0	1	0	31:02.2
+北京市	Beijing	东城区	Dongcheng District	380	0	105	4	12	0	1	0	31:02.2
+北京市	Beijing	顺义区	Shunyi District	380	0	105	4	10	0	0	0	31:02.2
+北京市	Beijing	怀柔区	Huairou District	380	0	105	4	7	0	0	0	31:02.2
+北京市	Beijing	密云区	Miyun District	380	0	105	4	7	0	0	0	31:02.2
+北京市	Beijing	门头沟区	Mentougou District	380	0	105	4	3	0	0	0	31:02.2
+北京市	Beijing	延庆区	Yanqing District	380	0	105	4	1	0	0	0	31:02.2
+北京市	Beijing	待明确地区	Area not defined	380	0	105	4	0	0	95	4	31:02.2
+福建省	Fujian	福州	Fuzhou	287	0	77	0	68	0	20	0	31:02.2
+福建省	Fujian	莆田	Putian	287	0	77	0	55	0	12	0	31:02.2
+福建省	Fujian	泉州	Quanzhou	287	0	77	0	46	0	13	0	31:02.2
+福建省	Fujian	厦门	Xiamen	287	0	77	0	34	0	5	0	31:02.2
+福建省	Fujian	宁德	Ningde	287	0	77	0	25	0	6	0	31:02.2
+福建省	Fujian	南平	Nanping	287	0	77	0	20	0	5	0	31:02.2
+福建省	Fujian	漳州	Zhangzhou	287	0	77	0	20	0	6	0	31:02.2
+福建省	Fujian	三明	Sanming	287	0	77	0	13	0	3	0	31:02.2
+福建省	Fujian	龙岩	Longyan	287	0	77	0	6	0	1	0	31:02.2
+福建省	Fujian	待明确地区	Area not defined	287	0	77	0	0	0	6	0	31:02.2
+河北省	Hebei	唐山	Tangshan	300	0	101	3	51	0	9	0	31:02.2
+河北省	Hebei	沧州	Cangzhou	300	0	101	3	47	0	14	2	31:02.2
+河北省	Hebei	张家口	Zhangjiakou	300	0	101	3	34	0	9	0	31:02.2
+河北省	Hebei	邯郸	Handan	300	0	101	3	31	0	9	0	31:02.2
+河北省	Hebei	石家庄	Shijiazhuang	300	0	101	3	28	0	7	0	31:02.2
+河北省	Hebei	廊坊	Langfang	300	0	101	3	30	0	14	0	31:02.2
+河北省	Hebei	保定	Baoding	300	0	101	3	32	0	19	0	31:02.2
+河北省	Hebei	邢台	Xingtai	300	0	101	3	22	0	10	1	31:02.2
+河北省	Hebei	秦皇岛	Qinhuangdao	300	0	101	3	10	0	3	0	31:02.2
+河北省	Hebei	衡水	Hengshui	300	0	101	3	8	0	4	0	31:02.2
+河北省	Hebei	承德	Chengde	300	0	101	3	7	0	3	0	31:02.2
+广西壮族自治区	Guangxi	南宁	Nanning	237	0	46	2	50	0	11	0	31:02.2
+广西壮族自治区	Guangxi	北海	Beihai	237	0	46	2	43	0	7	1	31:02.2
+广西壮族自治区	Guangxi	桂林	Guilin	237	0	46	2	31	0	10	0	31:02.2
+广西壮族自治区	Guangxi	河池	Hechi	237	0	46	2	22	0	0	1	31:02.2
+广西壮族自治区	Guangxi	防城港	Fangchenggang	237	0	46	2	18	0	1	0	31:02.2
+广西壮族自治区	Guangxi	柳州	Liuzhou	237	0	46	2	24	0	8	0	31:02.2
+广西壮族自治区	Guangxi	来宾	Laibin	237	0	46	2	11	0	0	0	31:02.2
+广西壮族自治区	Guangxi	玉林	Yulin	237	0	46	2	10	0	1	0	31:02.2
+广西壮族自治区	Guangxi	钦州	Qinzhou	237	0	46	2	8	0	1	0	31:02.2
+广西壮族自治区	Guangxi	贵港	Guigang	237	0	46	2	8	0	2	0	31:02.2
+广西壮族自治区	Guangxi	贺州	Hezhou	237	0	46	2	4	0	0	0	31:02.2
+广西壮族自治区	Guangxi	百色	Baise	237	0	46	2	3	0	0	0	31:02.2
+广西壮族自治区	Guangxi	梧州	Wuzhou	237	0	46	2	5	0	5	0	31:02.2
+上海市	Shanghai	外地来沪人员	People from other cities	328	0	140	1	109	0	48	1	31:02.2
+上海市	Shanghai	浦东新区	Pudong District	328	0	140	1	57	0	27	0	31:02.2
+上海市	Shanghai	宝山区	Baoshan District	328	0	140	1	21	0	5	0	31:02.2
+上海市	Shanghai	徐汇区	Xuhui District	328	0	140	1	18	0	4	0	31:02.2
+上海市	Shanghai	松江区	Songjiang District	328	0	140	1	14	0	2	0	31:02.2
+上海市	Shanghai	闵行区	Minhang District	328	0	140	1	18	0	7	0	31:02.2
+上海市	Shanghai	静安区	Jing'an District	328	0	140	1	16	0	7	0	31:02.2
+上海市	Shanghai	普陀区	Putuo District	328	0	140	1	11	0	2	0	31:02.2
+上海市	Shanghai	奉贤区	Fengxian District	328	0	140	1	9	0	1	0	31:02.2
+上海市	Shanghai	长宁区	Changning District	328	0	140	1	13	0	6	0	31:02.2
+上海市	Shanghai	杨浦区	Yangpu District	328	0	140	1	9	0	2	0	31:02.2
+上海市	Shanghai	嘉定区	Jiading District	328	0	140	1	9	0	2	0	31:02.2
+上海市	Shanghai	虹口区	Hongkou District	328	0	140	1	7	0	3	0	31:02.2
+上海市	Shanghai	黄浦区	Huangpu District	328	0	140	1	6	0	2	0	31:02.2
+上海市	Shanghai	崇明区	Chongming District	328	0	140	1	3	0	0	0	31:02.2
+上海市	Shanghai	青浦区	Qingpu District	328	0	140	1	5	0	4	0	31:02.2
+上海市	Shanghai	金山区	Jinshan District	328	0	140	1	3	0	2	0	31:02.2
+陕西省	Shanxi	西安	Xi'an	236	0	64	0	114	0	25	0	31:02.2
+陕西省	Shanxi	汉中	Hanzhong	236	0	64	0	25	0	1	0	31:02.2
+陕西省	Shanxi	安康	Ankang	236	0	64	0	24	0	5	0	31:02.2
+陕西省	Shanxi	渭南	Weinan	236	0	64	0	15	0	1	0	31:02.2
+陕西省	Shanxi	咸阳	Xianyang	236	0	64	0	17	0	5	0	31:02.2
+陕西省	Shanxi	宝鸡	Baoji	236	0	64	0	13	0	7	0	31:02.2
+陕西省	Shanxi	商洛	Shangluo	236	0	64	0	7	0	2	0	31:02.2
+陕西省	Shanxi	铜川	Tongchuan	236	0	64	0	8	0	4	0	31:02.2
+陕西省	Shanxi	延安	Yan'an	236	0	64	0	8	0	6	0	31:02.2
+陕西省	Shanxi	榆林	Yulin	236	0	64	0	3	0	1	0	31:02.2
+陕西省	Shanxi	杨凌	Yangling District in Xianyang	236	0	64	0	1	0	0	0	31:02.2
+陕西省	Shanxi	韩城	Hancheng	236	0	64	0	1	0	1	0	31:02.2
+陕西省	Shanxi	待明确地区	Area not defined	236	0	64	0	0	0	6	0	31:02.2
+云南省	Yunnan	昆明	Kunming	169	0	42	0	49	0	8	0	31:02.2
+云南省	Yunnan	昭通	Zhaotong	169	0	42	0	25	0	2	0	31:02.2
+云南省	Yunnan	西双版纳	Xishuangbanna	169	0	42	0	15	0	3	0	31:02.2
+云南省	Yunnan	玉溪	Yuxi	169	0	42	0	14	0	3	0	31:02.2
+云南省	Yunnan	曲靖	Qujing	169	0	42	0	13	0	5	0	31:02.2
+云南省	Yunnan	大理州	Dali	169	0	42	0	13	0	6	0	31:02.2
+云南省	Yunnan	保山	Baoshan	169	0	42	0	9	0	2	0	31:02.2
+云南省	Yunnan	红河州	Honghe	169	0	42	0	8	0	3	0	31:02.2
+云南省	Yunnan	德宏州	Dehong	169	0	42	0	5	0	2	0	31:02.2
+云南省	Yunnan	普洱	Pu'er	169	0	42	0	4	0	1	0	31:02.2
+云南省	Yunnan	楚雄州	Chuxiong	169	0	42	0	4	0	1	0	31:02.2
+云南省	Yunnan	丽江	Lijiang	169	0	42	0	7	0	5	0	31:02.2
+云南省	Yunnan	文山州	Wenshan	169	0	42	0	2	0	0	0	31:02.2
+云南省	Yunnan	临沧	Lincang	169	0	42	0	1	0	1	0	31:02.2
+贵州省	Guizhou	贵阳	Guiyang	144	0	41	1	34	0	6	0	31:02.2
+贵州省	Guizhou	遵义	Zunyi	144	0	41	1	32	0	5	0	31:02.2
+贵州省	Guizhou	毕节	Bijie	144	0	41	1	23	0	7	0	31:02.2
+贵州省	Guizhou	黔南州	Qiannan	144	0	41	1	17	0	5	0	31:02.2
+贵州省	Guizhou	六盘水	Liupanshui	144	0	41	1	10	0	3	1	31:02.2
+贵州省	Guizhou	黔东南州	Qiandongnan	144	0	41	1	10	0	4	0	31:02.2
+贵州省	Guizhou	安顺	Anshun	144	0	41	1	4	0	0	0	31:02.2
+贵州省	Guizhou	铜仁	Tongren	144	0	41	1	10	0	7	0	31:02.2
+贵州省	Guizhou	黔西南州	Qianxinan	144	0	41	1	4	0	4	0	31:02.2
+辽宁省	Liaoning	沈阳	Shenyang	120	0	35	1	28	0	12	0	31:02.2
+辽宁省	Liaoning	大连	Dalian	120	0	35	1	18	0	5	0	31:02.2
+辽宁省	Liaoning	葫芦岛	Huludao	120	0	35	1	12	0	0	1	31:02.2
+辽宁省	Liaoning	盘锦	Panjin	120	0	35	1	11	0	0	0	31:02.2
+辽宁省	Liaoning	阜新	Fuxin	120	0	35	1	8	0	0	0	31:02.2
+辽宁省	Liaoning	铁岭	Tieling	120	0	35	1	7	0	1	0	31:02.2
+辽宁省	Liaoning	锦州	Jinzhou	120	0	35	1	12	0	7	0	31:02.2
+辽宁省	Liaoning	朝阳	Chaoyang	120	0	35	1	6	0	2	0	31:02.2
+辽宁省	Liaoning	鞍山	Anshan	120	0	35	1	4	0	0	0	31:02.2
+辽宁省	Liaoning	丹东	Dandong	120	0	35	1	7	0	4	0	31:02.2
+辽宁省	Liaoning	本溪	Benxi	120	0	35	1	3	0	1	0	31:02.2
+辽宁省	Liaoning	辽阳	Liaoyang	120	0	35	1	3	0	2	0	31:02.2
+辽宁省	Liaoning	营口	Yingkou	120	0	35	1	1	0	1	0	31:02.2
+山西省	Shanxi	晋中	Jinzhong	128	0	46	0	35	0	12	0	31:02.2
+山西省	Shanxi	太原	Taiyuan	128	0	46	0	19	0	6	0	31:02.2
+山西省	Shanxi	大同	Datong	128	0	46	0	12	0	4	0	31:02.2
+山西省	Shanxi	长治	Changzhi	128	0	46	0	8	0	0	0	31:02.2
+山西省	Shanxi	晋城	Jincheng	128	0	46	0	9	0	2	0	31:02.2
+山西省	Shanxi	忻州	Xinzhou	128	0	46	0	7	0	0	0	31:02.2
+山西省	Shanxi	运城	Yuncheng	128	0	46	0	19	0	13	0	31:02.2
+山西省	Shanxi	朔州	Shuozhou	128	0	46	0	7	0	2	0	31:02.2
+山西省	Shanxi	阳泉	Yangquan	128	0	46	0	4	0	0	0	31:02.2
+山西省	Shanxi	临汾	Linfen	128	0	46	0	2	0	1	0	31:02.2
+山西省	Shanxi	吕梁	Lüliang	128	0	46	0	6	0	6	0	31:02.2
+内蒙古自治区	Neimenggu	包头	Baotou	70	0	7	0	11	0	0	0	31:02.2
+内蒙古自治区	Neimenggu	鄂尔多斯	Ordos	70	0	7	0	11	0	3	0	31:02.2
+内蒙古自治区	Neimenggu	巴彦淖尔	Bayannur	70	0	7	0	8	0	0	0	31:02.2
+内蒙古自治区	Neimenggu	呼和浩特	Hohhot	70	0	7	0	7	0	0	0	31:02.2
+内蒙古自治区	Neimenggu	赤峰	Chifeng	70	0	7	0	9	0	2	0	31:02.2
+内蒙古自治区	Neimenggu	通辽	Tongliao	70	0	7	0	6	0	0	0	31:02.2
+内蒙古自治区	Neimenggu	呼伦贝尔	Hulunbuir	70	0	7	0	6	0	1	0	31:02.2
+内蒙古自治区	Neimenggu	锡林郭勒盟	Linguolexi	70	0	7	0	6	0	1	0	31:02.2
+内蒙古自治区	Neimenggu	乌兰察布	Ulanqab	70	0	7	0	3	0	0	0	31:02.2
+内蒙古自治区	Neimenggu	乌海市	Wuhai	70	0	7	0	2	0	0	0	31:02.2
+内蒙古自治区	Neimenggu	兴安盟	Xinganmeng	70	0	7	0	1	0	0	0	31:02.2
+吉林省	Jilin	长春	Changchun	89	0	28	1	45	0	14	0	31:02.2
+吉林省	Jilin	四平市	Siping	89	0	28	1	14	0	4	1	31:02.2
+吉林省	Jilin	辽源	Liaoyuan	89	0	28	1	7	0	1	0	31:02.2
+吉林省	Jilin	公主岭	Gongzhuling	89	0	28	1	6	0	2	0	31:02.2
+吉林省	Jilin	延边	Yanbian	89	0	28	1	5	0	2	0	31:02.2
+吉林省	Jilin	通化	Tonghua	89	0	28	1	3	0	0	0	31:02.2
+吉林省	Jilin	吉林市	Jilin	89	0	28	1	5	0	3	0	31:02.2
+吉林省	Jilin	松原	Songyuan	89	0	28	1	2	0	1	0	31:02.2
+吉林省	Jilin	白城	Baicheng	89	0	28	1	1	0	0	0	31:02.2
+吉林省	Jilin	梅河口	Meihekou	89	0	28	1	1	0	1	0	31:02.2
+新疆维吾尔自治区	Xinjiang	乌鲁木齐	Urumqi	71	0	11	1	23	0	3	0	31:02.2
+新疆维吾尔自治区	Xinjiang	伊犁州	Yili	71	0	11	1	16	0	4	0	31:02.2
+新疆维吾尔自治区	Xinjiang	兵团第四师	Xinjiang Production and Construction Corps 4th Division	71	0	11	1	10	0	0	0	31:02.2
+新疆维吾尔自治区	Xinjiang	兵团第九师	Xinjiang Production and Construction Corps 9th Division	71	0	11	1	4	0	0	0	31:02.2
+新疆维吾尔自治区	Xinjiang	昌吉州	Changji	71	0	11	1	4	0	0	0	31:02.2
+新疆维吾尔自治区	Xinjiang	巴州	Bayingolin Mongol Autonomous Prefecture	71	0	11	1	3	0	0	0	31:02.2
+新疆维吾尔自治区	Xinjiang	吐鲁番市	Turpan	71	0	11	1	3	0	1	0	31:02.2
+新疆维吾尔自治区	Xinjiang	兵团第六师五家渠市	Wujiaqu, Xinjiang Production and Construction Corps 5th Division	71	0	11	1	2	0	0	0	31:02.2
+新疆维吾尔自治区	Xinjiang	兵团第八师石河子市	Shihezi, Xinjiang Production and Construction Corps 8th Division	71	0	11	1	3	0	1	1	31:02.2
+新疆维吾尔自治区	Xinjiang	兵团第十二师	Xinjiang Production and Construction Corps 12th Division	71	0	11	1	1	0	0	0	31:02.2
+新疆维吾尔自治区	Xinjiang	兵团第七师	Xinjiang Production and Construction Corps 7th Division	71	0	11	1	1	0	1	0	31:02.2
+新疆维吾尔自治区	Xinjiang	阿克苏地区	Akesu	71	0	11	1	1	0	1	0	31:02.2
+上海市	Shanghai	外地来沪人员	People from other cities	326	0	124	1	109	0	48	1	06:11.6
+上海市	Shanghai	浦东新区	Pudong District	326	0	124	1	56	0	27	0	06:11.6
+上海市	Shanghai	宝山区	Baoshan District	326	0	124	1	20	0	5	0	06:11.6
+上海市	Shanghai	徐汇区	Xuhui District	326	0	124	1	18	0	4	0	06:11.6
+上海市	Shanghai	松江区	Songjiang District	326	0	124	1	14	0	2	0	06:11.6
+上海市	Shanghai	闵行区	Minhang District	326	0	124	1	18	0	7	0	06:11.6
+上海市	Shanghai	静安区	Jing'an District	326	0	124	1	16	0	7	0	06:11.6
+上海市	Shanghai	普陀区	Putuo District	326	0	124	1	11	0	2	0	06:11.6
+上海市	Shanghai	奉贤区	Fengxian District	326	0	124	1	9	0	1	0	06:11.6
+上海市	Shanghai	长宁区	Changning District	326	0	124	1	13	0	6	0	06:11.6
+上海市	Shanghai	杨浦区	Yangpu District	326	0	124	1	9	0	2	0	06:11.6
+上海市	Shanghai	嘉定区	Jiading District	326	0	124	1	9	0	2	0	06:11.6
+上海市	Shanghai	虹口区	Hongkou District	326	0	124	1	7	0	3	0	06:11.6
+上海市	Shanghai	黄浦区	Huangpu District	326	0	124	1	6	0	2	0	06:11.6
+上海市	Shanghai	崇明区	Chongming District	326	0	124	1	3	0	0	0	06:11.6
+上海市	Shanghai	青浦区	Qingpu District	326	0	124	1	5	0	3	0	06:11.6
+上海市	Shanghai	金山区	Jinshan District	326	0	124	1	3	0	2	0	06:11.6
